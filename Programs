@@ -1,0 +1,9 @@
+package com.LeoYash.jfs.day1;
+
+public class HelloWorld{
+
+public static void main(String[] aegs){
+System.out.println("HI Yashwanth Welcome to Java World");
+}
+
+}
